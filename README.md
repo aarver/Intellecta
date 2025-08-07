@@ -75,9 +75,10 @@ streamlit run app.py
 
 ## File structure
 
-File Structure
+```
 ├── app.py              # Streamlit frontend
 ├── rag.py              # RAG chain setup and Search1API integration
 ├── requirements.txt    # Python dependencies
 ├── .env                # API keys (not committed)
 └── README.md
+```
